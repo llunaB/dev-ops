@@ -6,7 +6,7 @@
 
 > Search 통해 재구성 by llunaB
 
-![ops](/Users/euijinpang/[git] devOps/README.assets/ops.jpeg)
+![ops](README.assets/ops.jpeg)
 
 
 
